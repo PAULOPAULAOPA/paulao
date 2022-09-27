@@ -1,0 +1,14 @@
+table{
+margin: 20px 0 40px;
+ }
+
+ 
+
+ thead{  
+     background: #555555;
+     color: white;
+     font-weight: bold;
+  }
+  tr, td{
+      border: 1px solid #000000;
+ }
